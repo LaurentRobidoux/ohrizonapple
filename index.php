@@ -8,13 +8,9 @@
 <body>
 
 <div class="center">
-<h1 class="title">Please work</h1>
-
-<a class="btn btn-light"href="itms-services://?action=download-manifest&url=https://ohrizonapple.herokuapp.com/ExportOptions.plist">
-    Download
-</a>
+<h1 class="title">Ohrizon - Dreux</h1>
 <a class="btn btn-light"href="itms-services://?action=download-manifest&url=https://ohrizonapple.herokuapp.com/manifest.plist">
-    Download
+    Télécharger
 </a>
 </div>
 
