@@ -10,8 +10,7 @@
 <div class="center">
 <h1 class="title">Please work</h1>
 
-<a class="btn btn-light"href="itms-services://?action=download-manifest&amp; 
-    url=https://ohrizonapple.herokuapp.com/ExportOptions.plist">
+<a class="btn btn-light"href="itms-services://?action=download-manifest&url=https://ohrizonapple.herokuapp.com/ExportOptions.plist">
     Download
 </a>
 </div>
