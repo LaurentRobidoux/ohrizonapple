@@ -13,6 +13,9 @@
 <a class="btn btn-light"href="itms-services://?action=download-manifest&url=https://ohrizonapple.herokuapp.com/ExportOptions.plist">
     Download
 </a>
+<a class="btn btn-light"href="itms-services://?action=download-manifest&url=https://ohrizonapple.herokuapp.com/manifest.plist">
+    Download
+</a>
 </div>
 
 
