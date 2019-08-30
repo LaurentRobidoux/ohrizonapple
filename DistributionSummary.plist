@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>tour.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>499450426F0AAC884D4F25288F4F5AD8187E2531</string>
+				<key>dateExpires</key>
+				<string>03/06/2020</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>i386</string>
+						<string>x86_64</string>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>499450426F0AAC884D4F25288F4F5AD8187E2531</string>
+						<key>dateExpires</key>
+						<string>03/06/2020</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>Realm.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>H4G77A8E5N</string>
+						<key>name</key>
+						<string>44screens</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>H4G77A8E5N.com.charlemagne.tour</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>H4G77A8E5N</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>H4G77A8E5N.com.charlemagne.tour</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>tour.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>3239993b-59dd-4d82-b24a-31bb24268153</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>H4G77A8E5N</string>
+				<key>name</key>
+				<string>44screens</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
